@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/register/register",
+    "pages/map/map",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/my-note/my-note",
+    "pages/my-collect/my-collect",
+    "pages/note-desc/note-desc",
+    "pages/follow-list/follow-list",
+    "pages/fan-list/fan-list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "none",
+    "color": "#B5B5B5",
+    "selectedColor": "#AB2AF1",
+    "backgroundColor": "#fffdff",
+    "fontSize": "15",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/images/first.png",
+        "selectedIconPath": "static/images/first_selected.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "iconPath": "static/images/map.png",
+        "selectedIconPath": "static/images/map_selected.png",
+        "text": "地图"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/images/my.png",
+        "selectedIconPath": "static/images/my_selected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

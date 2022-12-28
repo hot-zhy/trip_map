@@ -1,0 +1,258 @@
+{
+	"easycom": { "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue" },
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "TripMap",
+				"navigationBarBackgroundColor": "#6A5DAC",
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "Trip",
+								"fontSize": "16",
+								"float": "left"
+							}
+						],
+						"searchInput": {
+							"align": "center",
+							"placeholder": "请搜索您想要的内容",
+							"borderRadius": "50upx",
+							"backgroundColor": "#fff",
+							"disabled": true
+						}
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/map/map",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "地点推荐"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationStyle": "default",
+				"navigationBarBackgroundColor": "#6A5DAC",
+				"navigationBarTitleText": ""
+			}
+		}
+	    ,{
+            "path" : "pages/search/search",
+		  "style": {
+			  "navigationStyle": "default",
+				"app-plus": {
+					"scrollIndicator": "none",
+					"titleNView": {
+						"searchInput": {
+							"align": "left",
+							"backgroundColor": "#F7F7F7",
+							"borderRadius": "4px",
+							"disabled": false,
+							"autoFocus": true,
+							"placeholder": "请输入您想搜索的帖子/用户/地点",
+							"placeholderColor": "#CCCCCC"
+						},
+						"buttons":[
+									{
+										"color":"#989898",
+										"colorPressed":"#FD6801",
+										"float":"right",
+										"fontSize":"16px",
+										"text":"搜索"
+									}
+								]
+					}
+			}
+		  }
+            
+        }
+        ,{
+            "path" : "pages/my-note/my-note",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的帖子",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/my-collect/my-collect",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的收藏",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/note-desc/note-desc",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "帖子详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/follow-list/follow-list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "关注列表",
+                "enablePullDownRefresh": false
+            }
+            
+        },
+		{
+		    "path" : "pages/fan-list/fan-list",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "粉丝列表",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/my-address/my-address",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的收藏地址",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/search-list/search-list",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "搜索结果",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "white"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/edit-post/edit-post",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发布帖子",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "white"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/user_info/user_info",
+            "style": {
+            	"navigationStyle": "default",
+            	"navigationBarBackgroundColor": "#6A5DAC",
+            	"navigationBarTitleText": "他的信息"
+            }
+            
+        },
+		{
+		    "path" : "pages/user-follow-list/user-follow-list",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "TA的关注",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/user-fan-list/user-fan-list",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "TA的粉丝",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/user-note/user-note",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "TA的帖子",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		},
+		{
+		    "path" : "pages/user-collect/user-collect",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "TA的收藏帖子",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/user-address/user-address",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "TA的收藏地点",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/place-post/place-post",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "与地点相关的帖子",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "none",
+		"color" : "#B5B5B5",
+		"selectedColor" : "#AB2AF1",
+		"backgroundColor" : "#fffdff",
+		"fontSize": "15",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/images/first.png",
+				"selectedIconPath": "static/images/first_selected.png"
+			},
+			{
+				"pagePath": "pages/map/map",
+				"iconPath": "static/images/map.png",
+				"selectedIconPath": "static/images/map_selected.png",
+				"text": "地图"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/images/my.png",
+				"selectedIconPath": "static/images/my_selected.png"
+			}
+		]
+	},
+	"uniIdRouter": {}
+}
