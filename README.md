@@ -20,6 +20,10 @@
 
 1. 将项目运行到hbuilderx模拟器或者打包成apk下载运行即可
 
+
+## apk安装包
+https://github.com/hot-zhy/trip_map_apk
+
 ## 功能划分
 
 ![image](https://user-images.githubusercontent.com/100272100/209806005-c531a182-31f9-4537-a41b-a8354b5b43c3.png)
