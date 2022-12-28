@@ -35,34 +35,34 @@ https://github.com/hot-zhy/trip_map_apk
 ## 前端实现效果
 
 1.首页
-![image](https://user-images.githubusercontent.com/100272100/209810016-a9e14cc5-a2ea-4b08-8ee9-ae14cc6a798b.png)
+![Screenshot_20221228_213326_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820418-9bc1388a-203f-4612-991d-5de7df0ed70b.jpg)
 
 2.地图页
-![image](https://user-images.githubusercontent.com/100272100/209810124-eb5e2704-678c-414b-9efe-466a32c1ad83.png)
+![Screenshot_20221228_213329_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820447-3edf6660-345b-4e68-bf91-e9fedb3eb441.jpg)
 
 3.搜索页
-![image](https://user-images.githubusercontent.com/100272100/209810154-7ee3be7f-dc27-4a21-8e5f-9b3053963d17.png)
+![Screenshot_20221228_213332_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820459-2368ea86-71d1-4922-a8a2-85eecd3a9b6b.jpg)
 
 4.搜索结果页
-![image](https://user-images.githubusercontent.com/100272100/209810211-67623186-2eb5-4a80-bef6-7f83a6958213.png)
+![Screenshot_20221228_213340_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820470-81ed7b4e-24f9-4563-a0a5-15dc513efc8c.jpg)
 
 5.帖子详情页
-![image](https://user-images.githubusercontent.com/100272100/209810240-7a8b944c-12b6-428a-9857-1f9361fb6e7b.png)
+![Screenshot_20221228_213609_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820512-f36b228b-1fff-4e86-9a6f-0cb054741bb2.jpg)
 
 6.我的页
-![image](https://user-images.githubusercontent.com/100272100/209810272-f73933a8-91b2-4f0f-8293-659b3435742f.png)
+![Screenshot_20221228_213347_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820522-dc8903f7-3a1c-4966-80b4-1ca592d1aa5a.jpg)
 
 7.我的关注列表/我的粉丝列表页
-![image](https://user-images.githubusercontent.com/100272100/209810299-1939eb1b-257a-4a46-b245-57cb49a054d1.png)
+![Screenshot_20221228_213344_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820531-7f193ee5-5963-487c-9431-793685f4a909.jpg)
 
 8.我的收藏地点页
-![image](https://user-images.githubusercontent.com/100272100/209810320-2f184f86-851c-44fc-8e31-0b3bd5f96065.png)
+![Screenshot_20221228_213401_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820542-9924bc5f-ee60-49db-b347-995bf4f4199e.jpg)
 
 9.我的帖子/我的收藏帖子页
-![image](https://user-images.githubusercontent.com/100272100/209810407-291df243-1785-4578-99b6-60c600488a26.png)
+![Screenshot_20221228_213355_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820556-31d399bd-35c1-4e06-92b3-a74d63c8e170.jpg)
 
 10.发布帖子页
-![image](https://user-images.githubusercontent.com/100272100/209810435-5cdb7c84-5ee7-485e-b837-eec6701e384a.png)
+![Screenshot_20221228_213403_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820570-e7fe07bb-92a1-427b-a60c-4a987888b9b7.jpg)
 
 11.与地点相关的帖子列表页
-![image](https://user-images.githubusercontent.com/100272100/209810480-5181fefb-2781-4348-af1f-8dda4060b558.png)
+![Screenshot_20221228_213411_uni UNI438F965](https://user-images.githubusercontent.com/100272100/209820584-b67d5549-3ac0-4750-b8fa-20d73d834732.jpg)
