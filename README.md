@@ -23,6 +23,8 @@
 
 ## apk安装包
 https://github.com/hot-zhy/trip_map_apk
+![image](https://user-images.githubusercontent.com/100272100/209929288-e9ad25a0-2c2f-449f-bb78-432da4b91d2b.png)
+
 
 ## 功能划分
 
